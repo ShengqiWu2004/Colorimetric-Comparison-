@@ -7,7 +7,7 @@ This repository contains code for evaluating and comparing color correction meth
 - `color_process.py`: Main script to process solution images and apply three color correction methods.
 - `model.py`: Defines the deep learning-based ensemble model used for concentration prediction, integrating both visual and colorimetric features.
 - `models/`: Folder containing two pre-trained models used for the comparison described in the accompanying manuscript.
-- `list/`: Folder with test images, including the background reference.
+- `list/`: position for putting in test images
 
 #### 🧪 Correction Methods
 
